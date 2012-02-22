@@ -1,0 +1,818 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: branch 1.10\n"
+"Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2012-02-22 15:29+0100\n"
+"PO-Revision-Date: 2012-02-22 15:29+0100\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: sr@ijekavian\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#. [campaign]
+#. [editor_group]: id=d
+#: Dystopia/_main.cfg:11 Dystopia/_main.cfg:50
+msgid "Dystopia"
+msgstr ""
+
+#. [campaign]
+#: Dystopia/_main.cfg:17
+msgid "(Easy)"
+msgstr ""
+
+#. [campaign]
+#: Dystopia/_main.cfg:17
+msgid "Recruit"
+msgstr ""
+
+#. [campaign]
+#: Dystopia/_main.cfg:18
+msgid "Soldier"
+msgstr ""
+
+#. [campaign]
+#: Dystopia/_main.cfg:18
+msgid "(Normal)"
+msgstr ""
+
+#. [campaign]
+#: Dystopia/_main.cfg:19
+msgid "(Challenging)"
+msgstr ""
+
+#. [campaign]
+#: Dystopia/_main.cfg:19
+msgid "Hero"
+msgstr ""
+
+#. [campaign]
+#: Dystopia/_main.cfg:22
+msgid ""
+"During the reign of queen Asheviere, the province Annuvin rebelled. You, a "
+"royal agent, are sent to stop it."
+msgstr ""
+
+#. [campaign]
+#: Dystopia/_main.cfg:24
+msgid "(5 scenarios completed, version {DYSVERSION}, for 1.9.11 or later.)"
+msgstr ""
+
+#. [scenario]: id=01_Orders
+#: Dystopia/scenarios/01_Orders.cfg:4
+msgid "Following Orders"
+msgstr ""
+
+#. [part]
+#: Dystopia/scenarios/01_Orders.cfg:16
+msgid ""
+"In the months following the riot in Dallben and Delwyn, the rebellion spread "
+"quickly. Many other villages were now trying to purge all the wesnothian "
+"activity."
+msgstr ""
+
+#. [part]
+#: Dystopia/scenarios/01_Orders.cfg:19
+msgid ""
+"However, the disappearance of a royal officer angered the queen. She sent "
+"one of het best commanders, an agent known as Cubryn, to stop this rebellion."
+msgstr ""
+
+#. [side]: type=Royal Agent, id=Cubryn
+#: Dystopia/scenarios/01_Orders.cfg:27 Dystopia/scenarios/02_Village.cfg:17
+#: Dystopia/scenarios/04_Rebels.cfg:17 Dystopia/scenarios/05_Elensefar.cfg:17
+#: Dystopia/scenarios/03_Blockade.cfg:17
+msgid "Cubryn"
+msgstr ""
+
+#. [side]: type=Royal Agent, id=Cubryn
+#. [side]: type=Swordsman, id=Yroc
+#. [side]: type=Grand Knight, id=Knight
+#. [side]: type=General, id=General
+#. [side]: type=Lieutenant, id=Guard
+#: Dystopia/scenarios/01_Orders.cfg:31 Dystopia/scenarios/02_Village.cfg:21
+#: Dystopia/scenarios/02_Village.cfg:42 Dystopia/scenarios/04_Rebels.cfg:66
+#: Dystopia/scenarios/05_Elensefar.cfg:72
+#: Dystopia/scenarios/03_Blockade.cfg:21 Dystopia/scenarios/03_Blockade.cfg:38
+msgid "Loyalists"
+msgstr ""
+
+#. [side]: id=Aleran
+#: Dystopia/scenarios/01_Orders.cfg:45
+msgid "Aleran"
+msgstr ""
+
+#. [side]: id=Aleran
+#: Dystopia/scenarios/01_Orders.cfg:50
+msgid "Rebels"
+msgstr ""
+
+#. [objectives]
+#: Dystopia/scenarios/01_Orders.cfg:115 Dystopia/scenarios/01_Orders.cfg:207
+msgid ""
+"Hint:\n"
+"You're outnumbered, so be careful with your attacks, and use the villages in "
+"your advantage."
+msgstr ""
+
+#. [objective]: condition=win
+#: Dystopia/scenarios/01_Orders.cfg:118 Dystopia/scenarios/01_Orders.cfg:210
+msgid "Defeat the rebels"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Dystopia/scenarios/01_Orders.cfg:122 Dystopia/scenarios/01_Orders.cfg:214
+#: Dystopia/scenarios/02_Village.cfg:100 Dystopia/scenarios/04_Rebels.cfg:192
+#: Dystopia/scenarios/04_Rebels.cfg:331
+#: Dystopia/scenarios/05_Elensefar.cfg:130
+#: Dystopia/scenarios/03_Blockade.cfg:135
+msgid "Death of Cubryn"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Dystopia/scenarios/01_Orders.cfg:138
+msgid ""
+"It is recommended to play this campaign on version 1.9.11 or later, or it "
+"may be buggy."
+msgstr ""
+
+#. [message]: speaker=Cubryn
+#: Dystopia/scenarios/01_Orders.cfg:143
+msgid ""
+"So, here is the village where the people think they can kill a royal officer "
+"and get away with it!"
+msgstr ""
+
+#. [message]: speaker=Aleran
+#: Dystopia/scenarios/01_Orders.cfg:147
+msgid "But why? We did nothing wrong."
+msgstr ""
+
+#. [message]: speaker=Dragoon
+#: Dystopia/scenarios/01_Orders.cfg:151
+msgid "Sure, then tell me where Sir Mydoc is."
+msgstr ""
+
+#. [message]: speaker=Aleran
+#: Dystopia/scenarios/01_Orders.cfg:155
+msgid "I don't know, he hasn't been here."
+msgstr ""
+
+#. [message]: speaker=Cubryn
+#: Dystopia/scenarios/01_Orders.cfg:159
+msgid "Liars, kill them all!"
+msgstr ""
+
+#. [message]: speaker=Aleran
+#: Dystopia/scenarios/01_Orders.cfg:163
+msgid "Fine, but we won't go down without a fight!"
+msgstr ""
+
+#. [message]: speaker=Cubryn
+#: Dystopia/scenarios/01_Orders.cfg:167
+msgid "Sure you will."
+msgstr ""
+
+#. [message]: speaker=Cubryn
+#: Dystopia/scenarios/01_Orders.cfg:181
+msgid "It's an ambush!"
+msgstr ""
+
+#. [message]: speaker=Aleran
+#: Dystopia/scenarios/01_Orders.cfg:185
+msgid "No, these are just our hunters."
+msgstr ""
+
+#. [message]: speaker=Pikeman
+#: Dystopia/scenarios/01_Orders.cfg:189
+msgid "Yeah, sure."
+msgstr ""
+
+#. [message]
+#: Dystopia/scenarios/01_Orders.cfg:198
+msgid "Their leader is trying to escape!"
+msgstr ""
+
+#. [message]: speaker=Cubryn
+#: Dystopia/scenarios/01_Orders.cfg:202
+msgid "Make sure he doesn't leave this place. Kill him!"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Dystopia/scenarios/01_Orders.cfg:218
+msgid "The enemy leader reaches the signpost"
+msgstr ""
+
+#. [message]: speaker=Aleran
+#: Dystopia/scenarios/01_Orders.cfg:236
+msgid "So it's serious... Guards!"
+msgstr ""
+
+#. [message]: speaker=Aleran
+#: Dystopia/scenarios/01_Orders.cfg:254
+msgid "Do what you must, beasts! I'll be back with an army!"
+msgstr ""
+
+#. [message]: speaker=Cubryn
+#: Dystopia/scenarios/01_Orders.cfg:258
+msgid "Return! We will never win a battle against the full rebel army!"
+msgstr ""
+
+#. [message]: speaker=Aleran
+#: Dystopia/scenarios/01_Orders.cfg:268
+msgid "The other villages have come to aid us! You are going down!"
+msgstr ""
+
+#. [message]: speaker=Cubryn
+#: Dystopia/scenarios/01_Orders.cfg:277
+msgid "Good job men! We should catch up with the rest of the army."
+msgstr ""
+
+#. [message]: speaker=Aleran
+#: Dystopia/scenarios/01_Orders.cfg:291
+msgid "Death to the queen..."
+msgstr ""
+
+#. [scenario]: id=02_Village
+#: Dystopia/scenarios/02_Village.cfg:4
+msgid "Unrestful Villagers"
+msgstr ""
+
+#. [side]: type=Swordsman, id=Yroc
+#. [unit]: type=$yroc_heroify.type, id=Yroc
+#: Dystopia/scenarios/02_Village.cfg:37 Dystopia/scenarios/02_Village.cfg:185
+msgid "Yroc"
+msgstr ""
+
+#. [side]: type=Ranger, id=Ranger
+#: Dystopia/scenarios/02_Village.cfg:63
+msgid "Citizens"
+msgstr ""
+
+#. [objective]: condition=win
+#: Dystopia/scenarios/02_Village.cfg:96
+#: Dystopia/scenarios/05_Elensefar.cfg:126
+msgid "Defeat the enemy leader"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Dystopia/scenarios/02_Village.cfg:104 Dystopia/scenarios/04_Rebels.cfg:196
+#: Dystopia/scenarios/04_Rebels.cfg:335
+#: Dystopia/scenarios/05_Elensefar.cfg:134
+#: Dystopia/scenarios/03_Blockade.cfg:139
+msgid "Death of Yroc"
+msgstr ""
+
+#. [message]: speaker=Yroc
+#: Dystopia/scenarios/02_Village.cfg:122
+msgid "Hello sir. It's good to have you back."
+msgstr ""
+
+#. [message]: speaker=Cubryn
+#: Dystopia/scenarios/02_Village.cfg:126
+msgid ""
+"The rebellion is bigger than I thought. Many villagers have already fled "
+"towards Elensefar. We should go there."
+msgstr ""
+
+#. [message]: speaker=Yroc
+#: Dystopia/scenarios/02_Village.cfg:130
+msgid ""
+"Not before we've cleared this town. We've already launced an attack, but "
+"they are well defended."
+msgstr ""
+
+#. [message]: speaker=Cubryn
+#: Dystopia/scenarios/02_Village.cfg:134
+msgid ""
+"We're the royal army of Wesnoth! Did you just say we got defeated by some "
+"outlaws?! Follow my orders and we will win this battle!"
+msgstr ""
+
+#. [message]: speaker=Yroc
+#: Dystopia/scenarios/02_Village.cfg:138
+msgid "Yes sir!"
+msgstr ""
+
+#. [message]: speaker=Ranger
+#: Dystopia/scenarios/02_Village.cfg:145
+msgid "We're ready to go, fellow citizens. To Elensefar!"
+msgstr ""
+
+#. [message]: speaker=Cubryn
+#: Dystopia/scenarios/02_Village.cfg:149
+msgid "No, don't let them escape..."
+msgstr ""
+
+#. [message]: speaker=unit
+#: Dystopia/scenarios/02_Village.cfg:160
+msgid "There's a signpost here. Let's take a look:"
+msgstr ""
+
+#. [message]: speaker=unit
+#: Dystopia/scenarios/02_Village.cfg:166
+msgid ""
+"East: Annuvin\n"
+"Northwest: Dallben\n"
+"Southwest: Elensefar"
+msgstr ""
+
+#. [message]: speaker=Yroc
+#: Dystopia/scenarios/02_Village.cfg:173
+msgid "Good job, sir. Let's move on."
+msgstr ""
+
+#. [scenario]: id=03_Blockade
+#: Dystopia/scenarios/03_Blockade.cfg:4
+msgid "Orcish Blockade"
+msgstr ""
+
+#. [side]: type=Orcish Warrior, id=Gardash
+#: Dystopia/scenarios/03_Blockade.cfg:65
+msgid "Gardash"
+msgstr ""
+
+#. [side]: type=Orcish Warrior, id=Agadla
+#. [side]: type=Orcish Warrior, id=Gardash
+#. [side]: type=Orcish Ruler, id=Brag
+#: Dystopia/scenarios/04_Rebels.cfg:41 Dystopia/scenarios/05_Elensefar.cfg:41
+#: Dystopia/scenarios/03_Blockade.cfg:69 Dystopia/scenarios/03_Blockade.cfg:97
+msgid "Orcs"
+msgstr ""
+
+#. [side]: type=Orcish Ruler, id=Brag
+#: Dystopia/scenarios/03_Blockade.cfg:94
+msgid "Brag"
+msgstr ""
+
+#. [objective]: condition=win
+#: Dystopia/scenarios/03_Blockade.cfg:131
+msgid "Defeat the enemy leaders"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Dystopia/scenarios/03_Blockade.cfg:143
+msgid "Death of the guard captain"
+msgstr ""
+
+#. [message]: speaker=Cubryn
+#: Dystopia/scenarios/03_Blockade.cfg:159
+msgid ""
+"I can already see the bridge crossing the Great River. Maybe we can reach "
+"Elensefar before night falls!"
+msgstr ""
+
+#. [message]: speaker=Yroc
+#: Dystopia/scenarios/03_Blockade.cfg:163
+msgid "But sir, look! That looks like an encampment."
+msgstr ""
+
+#. [message]: speaker=Cubryn
+#: Dystopia/scenarios/03_Blockade.cfg:167
+msgid "And see that banner?"
+msgstr ""
+
+#. [message]: speaker=Yroc
+#: Dystopia/scenarios/03_Blockade.cfg:171
+msgid "Yes."
+msgstr ""
+
+#. [message]: speaker=Cubryn
+#: Dystopia/scenarios/03_Blockade.cfg:175
+msgid "Orcish."
+msgstr ""
+
+#. [message]: speaker=Gardash
+#: Dystopia/scenarios/03_Blockade.cfg:179
+msgid "The boss said we have to wait for our allies."
+msgstr ""
+
+#. [message]: speaker=Brag
+#: Dystopia/scenarios/03_Blockade.cfg:183
+msgid "Did he say we couldn't demolish the resistance?"
+msgstr ""
+
+#. [message]: speaker=Gardash
+#: Dystopia/scenarios/03_Blockade.cfg:187
+msgid "Let's do it then."
+msgstr ""
+
+#. [message]: speaker=Brag
+#: Dystopia/scenarios/03_Blockade.cfg:191
+msgid "Attack!"
+msgstr ""
+
+#. [message]: speaker=Cubryn
+#: Dystopia/scenarios/03_Blockade.cfg:195
+msgid "Not so fast, you're not going anywhere!"
+msgstr ""
+
+#. [message]: speaker=Gardash
+#: Dystopia/scenarios/03_Blockade.cfg:199
+msgid ""
+"What, there are more hostiles in this area? Isn't that something we should "
+"know?"
+msgstr ""
+
+#. [message]: speaker=Brag
+#: Dystopia/scenarios/03_Blockade.cfg:203
+msgid "Nevermind, we will kill all of them."
+msgstr ""
+
+#. [message]: speaker=Guard
+#: Dystopia/scenarios/03_Blockade.cfg:207
+msgid "Don't worry, I'm not going to let them into Elensefar!"
+msgstr ""
+
+#. [message]: speaker=Yroc
+#: Dystopia/scenarios/03_Blockade.cfg:211
+msgid "Am I the only one who is curious who the 'big boss' is?"
+msgstr ""
+
+#. [message]: speaker=Cubryn
+#: Dystopia/scenarios/03_Blockade.cfg:219
+msgid ""
+"I really don't know what is going on here. I thought the queen managed to "
+"make sure the orcs stayed north of Abez..."
+msgstr ""
+
+#. [message]: speaker=Yroc
+#: Dystopia/scenarios/03_Blockade.cfg:223
+msgid "They seemed so organised, not what I expected them to act like."
+msgstr ""
+
+#. [event]
+#: Dystopia/scenarios/05_Elensefar.cfg:113
+#: Dystopia/scenarios/03_Blockade.cfg:225
+msgid "Kayloc"
+msgstr ""
+
+#. [message]: speaker=Kayloc
+#: Dystopia/scenarios/03_Blockade.cfg:228
+msgid "Death to the qu... I see you did pretty well yourselves."
+msgstr ""
+
+#. [message]: speaker=Yroc
+#: Dystopia/scenarios/03_Blockade.cfg:232
+msgid "Who are you?"
+msgstr ""
+
+#. [message]: speaker=Kayloc
+#: Dystopia/scenarios/03_Blockade.cfg:236
+msgid "Their allies aren't supposed to be here yet, we must flee!"
+msgstr ""
+
+#. [message]: speaker=Cubryn
+#: Dystopia/scenarios/03_Blockade.cfg:240
+msgid ""
+"Wait, maggot! I want to know everything you know about the orcs, cause you "
+"surely do know more."
+msgstr ""
+
+#. [message]: speaker=Kayloc
+#: Dystopia/scenarios/03_Blockade.cfg:244
+msgid "So YOU aren't loyalists? Banners and sigils don't lie."
+msgstr ""
+
+#. [message]: speaker=Yroc
+#: Dystopia/scenarios/03_Blockade.cfg:248
+msgid "And what's wrong about serving your country?"
+msgstr ""
+
+#. [message]: speaker=Kayloc
+#: Dystopia/scenarios/03_Blockade.cfg:252
+msgid ""
+"Don't you see that your country is nothing but a ruin? That pathetic queen! "
+"SHE ordered an attack on Elensefar! The orcs are HER soldiers!"
+msgstr ""
+
+#. [message]: speaker=Yroc
+#: Dystopia/scenarios/03_Blockade.cfg:256
+msgid "No way!"
+msgstr ""
+
+#. [message]: speaker=Cubryn
+#: Dystopia/scenarios/03_Blockade.cfg:260
+msgid "I'm afraid Sir..."
+msgstr ""
+
+#. [message]: speaker=Kayloc
+#: Dystopia/scenarios/03_Blockade.cfg:264
+msgid "Sir Kayloc of Blackwater."
+msgstr ""
+
+#. [message]: speaker=Cubryn
+#: Dystopia/scenarios/03_Blockade.cfg:268
+msgid ""
+"I'm afraid Sir Kayloc is right. The orcs carry man-made weapons and clearly "
+"fight using a plan, which could be anything but orcish. Speak."
+msgstr ""
+
+#. [message]: speaker=Kayloc
+#: Dystopia/scenarios/03_Blockade.cfg:272
+msgid "Some orcs are awaiting reinforcements. Maybe I could..."
+msgstr ""
+
+#. [message]: speaker=Cubryn
+#: Dystopia/scenarios/03_Blockade.cfg:276
+msgid "I think it would be better if my men did this."
+msgstr ""
+
+#. [message]: speaker=Kayloc
+#: Dystopia/scenarios/03_Blockade.cfg:280
+msgid "All right then, this is the plan..."
+msgstr ""
+
+#. [scenario]: id=04_Rebels
+#: Dystopia/scenarios/04_Rebels.cfg:4
+msgid "Facing the Rebellion"
+msgstr ""
+
+#. [side]: type=Royal Agent, id=Cubryn
+#: Dystopia/scenarios/04_Rebels.cfg:21 Dystopia/scenarios/05_Elensefar.cfg:21
+msgid "Humans"
+msgstr ""
+
+#. [side]: type=Orcish Warrior, id=Agadla
+#: Dystopia/scenarios/04_Rebels.cfg:37 Dystopia/scenarios/05_Elensefar.cfg:37
+msgid "Agadla"
+msgstr ""
+
+#. [side]: type=Elvish Champion, id=Galdrad
+#: Dystopia/scenarios/04_Rebels.cfg:98
+msgid "Galdrad"
+msgstr ""
+
+#. [side]: type=Elvish Champion, id=Galdrad
+#. [side]: type=Elvish Shyde, id=Chantal
+#: Dystopia/scenarios/04_Rebels.cfg:101 Dystopia/scenarios/04_Rebels.cfg:153
+msgid "Elves"
+msgstr ""
+
+#. [unit]: type=Elvish Lord, id=Delion
+#: Dystopia/scenarios/04_Rebels.cfg:128
+msgid "Delion"
+msgstr ""
+
+#. [side]: type=Elvish Shyde, id=Chantal
+#: Dystopia/scenarios/04_Rebels.cfg:150
+msgid "Chantal"
+msgstr ""
+
+#. [objective]: condition=win
+#: Dystopia/scenarios/04_Rebels.cfg:183
+msgid "Defeat the human leader and"
+msgstr ""
+
+#. [objective]: condition=win
+#: Dystopia/scenarios/04_Rebels.cfg:187
+msgid "Hold out until turns end."
+msgstr ""
+
+#. [objective]: condition=lose
+#: Dystopia/scenarios/04_Rebels.cfg:200 Dystopia/scenarios/04_Rebels.cfg:339
+#: Dystopia/scenarios/05_Elensefar.cfg:138
+msgid "Death of Agadla"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Dystopia/scenarios/04_Rebels.cfg:204 Dystopia/scenarios/04_Rebels.cfg:343
+msgid "Death of Galdrad"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Dystopia/scenarios/04_Rebels.cfg:208 Dystopia/scenarios/04_Rebels.cfg:347
+msgid "Death of Chantal"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Dystopia/scenarios/04_Rebels.cfg:212
+msgid "The elves and loyalists attack one another"
+msgstr ""
+
+#. [message]: speaker=Cubryn
+#: Dystopia/scenarios/04_Rebels.cfg:228
+msgid "Greetings, we've come to aid you, chief Agadla of the Bonepiercer Clan."
+msgstr ""
+
+#. [message]: speaker=Agadla
+#: Dystopia/scenarios/04_Rebels.cfg:232
+msgid ""
+"Why did it take so long for you to get here? And, where is the rest of our "
+"clan? The big boss promised us reinforcements."
+msgstr ""
+
+#. [message]: speaker=Cubryn
+#: Dystopia/scenarios/04_Rebels.cfg:236
+msgid ""
+"I'm sorry to say this, but they were attacked by rebels and were defeated."
+msgstr ""
+
+#. [message]: speaker=Agadla
+#: Dystopia/scenarios/04_Rebels.cfg:240
+msgid ""
+"That's sad... But, we can't stay here and mourn, we have to get moving. Lord "
+"Maddock of Elensefar is still alive, and that's a bad thing. He will surely "
+"help the nephew!"
+msgstr ""
+
+#. [message]: speaker=Cubryn
+#: Dystopia/scenarios/04_Rebels.cfg:244
+msgid "What do you mean with nephew?"
+msgstr ""
+
+#. [message]: speaker=Agadla
+#: Dystopia/scenarios/04_Rebels.cfg:248
+msgid ""
+"You humans really are stupid... The old king's nephew, Konrad, escaped death "
+"and was rumored to be hiding in the Aethenwood."
+msgstr ""
+
+#. [message]: speaker=Yroc
+#: Dystopia/scenarios/04_Rebels.cfg:252
+msgid "We already know that, skip to the relevant part."
+msgstr ""
+
+#. [message]: speaker=Agadla
+#: Dystopia/scenarios/04_Rebels.cfg:256
+msgid ""
+"*mumbles* <i>At least they're more useful than trolls...</i> He escaped an "
+"orcish raiding party and is now rumored to be heading for Elensefar. We must "
+"get there as soon as possible, or else he might survive..."
+msgstr ""
+
+#. [message]: speaker=Knight
+#: Dystopia/scenarios/04_Rebels.cfg:263
+msgid ""
+"There they are, kill them all! Orc, please get away from those traitors."
+msgstr ""
+
+#. [message]: speaker=Cubryn
+#: Dystopia/scenarios/04_Rebels.cfg:267
+msgid ""
+"Hah, look at you. Pathetic... We've already seen your allies, rebel, but "
+"your attempt to flank us has failed."
+msgstr ""
+
+#. [message]: speaker=Knight
+#: Dystopia/scenarios/04_Rebels.cfg:271
+msgid "What do you mean..."
+msgstr ""
+
+#. [message]: speaker=Galdrad
+#: Dystopia/scenarios/04_Rebels.cfg:278
+msgid ""
+"Thank you, Lord Delion, for allowing me to use your men to track the orcs. "
+"They will pay for their crimes!"
+msgstr ""
+
+#. [message]: speaker=Agadla
+#: Dystopia/scenarios/04_Rebels.cfg:282
+msgid "Elves! We must destroy them!"
+msgstr ""
+
+#. [message]: speaker=Cubryn
+#: Dystopia/scenarios/04_Rebels.cfg:286
+msgid ""
+"If we want to have any chance to survive, we must kill those humans without "
+"the orcs noticing the fact the elves want them dead as much as we do. Also, "
+"don't kill the elves, as they will be our only allies one we've ditched "
+"those orcs."
+msgstr ""
+
+#. [message]: speaker=Agadla
+#: Dystopia/scenarios/04_Rebels.cfg:299
+msgid "What is going on here?"
+msgstr ""
+
+#. [message]
+#: Dystopia/scenarios/04_Rebels.cfg:310
+msgid "They are stronger than we expected! RUN!"
+msgstr ""
+
+#. [message]: speaker=Cubryn
+#: Dystopia/scenarios/04_Rebels.cfg:318
+msgid ""
+"Whenever the signal is lit, we have to go. Fortunately, these humans won't "
+"be able to follow us."
+msgstr ""
+
+#. [message]: speaker=Cubryn
+#: Dystopia/scenarios/04_Rebels.cfg:322
+msgid "We must soon be going, but first, let's try defeating these elves."
+msgstr ""
+
+#. [objective]: condition=win
+#: Dystopia/scenarios/04_Rebels.cfg:326
+msgid "Hold out until turns end"
+msgstr ""
+
+#. [message]: speaker=Cubryn
+#: Dystopia/scenarios/04_Rebels.cfg:368
+msgid ""
+"We must go north, but those soldiers are still blocking the way. We're "
+"doomed."
+msgstr ""
+
+#. [message]: speaker=Cubryn
+#: Dystopia/scenarios/04_Rebels.cfg:374
+msgid "I see the signal!"
+msgstr ""
+
+#. [message]: speaker=Cubryn
+#: Dystopia/scenarios/04_Rebels.cfg:378
+msgid "We have to move! Follow me!"
+msgstr ""
+
+#. [scenario]: id=05_Elensefar
+#: Dystopia/scenarios/05_Elensefar.cfg:4
+msgid "The Battle of Elensefar"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Dystopia/scenarios/05_Elensefar.cfg:142
+msgid "Death of Kayloc"
+msgstr ""
+
+#. [message]: speaker=Kayloc
+#: Dystopia/scenarios/05_Elensefar.cfg:159
+msgid ""
+"I've destroyed every Loyalist flag in this region. They won't suspect us. "
+"When they have taken over the city, we'll leave, so they can be killed by "
+"Konrad's army."
+msgstr ""
+
+#. [message]: speaker=Cubryn
+#: Dystopia/scenarios/05_Elensefar.cfg:163
+msgid ""
+"You, my friend, are a tactical genius. But first, we need to retake the city."
+msgstr ""
+
+#. [unit_type]: id=Royal Agent, race=human
+#: Dystopia/units/Royal_Agent.cfg:4
+msgid "Royal Agent"
+msgstr ""
+
+#. [unit_type]: id=Royal Agent, race=human
+#: Dystopia/units/Royal_Agent.cfg:22
+msgid ""
+"It is a peculiar custom of Wesnoth‚Äôs nobility that they typically enroll "
+"their sons into one of two orders of armigers, training them either in the "
+"art of horsemanship or fencing. Duelists are so named for an unfortunately "
+"common practice of young aristocrats, for whom the sting of insult, whether "
+"real or fancied, can incite a rash demonstration of their natural right.\n"
+"\n"
+"Experienced fencers carry with them a small crossbow that is easily "
+"concealed under a coat or cape. Slow to load and sometimes thought "
+"dishonorable to use, it is in fact very useful, and those of their ranks who "
+"live long enough to be veterans typically do so by making such concessions "
+"to utility and survival."
+msgstr ""
+
+#. [attack]: type=blade
+#: Dystopia/units/Royal_Agent.cfg:88
+msgid "saber"
+msgstr ""
+
+#. [attack]: type=pierce
+#: Dystopia/units/Royal_Agent.cfg:97
+msgid "crossbow"
+msgstr ""
+
+#. [terrain_type]: id=scarecrow
+#: Dystopia/utils/terrain.cfg:6
+msgid "Scarecrow"
+msgstr ""
+
+#. [terrain_type]: id=signpost
+#: Dystopia/utils/terrain.cfg:16
+msgid "Signpost"
+msgstr ""
+
+#. [terrain_type]: id=lighthouse
+#: Dystopia/utils/terrain.cfg:26
+msgid "Lighthouse"
+msgstr ""
+
+#. [terrain_type]: id=rock
+#: Dystopia/utils/terrain.cfg:36
+msgid "Rock"
+msgstr ""
+
+#. [terrain_type]: id=monolith
+#: Dystopia/utils/terrain.cfg:49
+msgid "Monolith"
+msgstr ""
+
+#. [terrain_type]: id=orcishbanner
+#: Dystopia/utils/terrain.cfg:62
+msgid "Orcish Banner"
+msgstr ""
+
+#. [terrain_type]: id=campfire
+#: Dystopia/utils/terrain.cfg:72
+msgid "Campfire"
+msgstr ""
