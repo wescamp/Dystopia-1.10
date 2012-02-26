@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2012-02-22 15:35+0100\n"
+"POT-Creation-Date: 2012-02-26 17:19+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -96,7 +96,7 @@ msgid "Rebels"
 msgstr ""
 
 #. [objectives]
-#: ./Dystopia/scenarios/01_Orders.cfg:115 ./Dystopia/scenarios/01_Orders.cfg:207
+#: ./Dystopia/scenarios/01_Orders.cfg:114 ./Dystopia/scenarios/01_Orders.cfg:206
 msgid ""
 "Hint:\n"
 "You're outnumbered, so be careful with your attacks, and use the villages in your advantage."
@@ -279,7 +279,7 @@ msgid "There's a signpost here. Let's take a look:"
 msgstr ""
 
 #. [message]: speaker=unit
-#: ./Dystopia/scenarios/02_Village.cfg:166
+#: ./Dystopia/scenarios/02_Village.cfg:164
 msgid ""
 "East: Annuvin\n"
 "Northwest: Dallben\n"
@@ -680,7 +680,7 @@ msgid "Royal Agent"
 msgstr ""
 
 #. [unit_type]: id=Royal Agent, race=human
-#: ./Dystopia/units/Royal_Agent.cfg:22
+#: ./Dystopia/units/Royal_Agent.cfg:20
 msgid ""
 "It is a peculiar custom of Wesnoth‚Äôs nobility that they typically enroll their sons into one of two orders of armigers, training them either in the art of horsemanship or fencing. Duelists are so named for an unfortunately common practice of young aristocrats, for whom the sting of insult, whether real or fancied, can incite a rash demonstration of their natural right.\n"
 "\n"
