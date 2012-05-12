@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: branch 1.10\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2012-02-26 17:19+0100\n"
+"POT-Creation-Date: 2012-05-11 23:35-0400\n"
 "PO-Revision-Date: 2012-02-26 17:19+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -81,20 +81,20 @@ msgstr ""
 
 #. [side]: type=Royal Agent, id=Cubryn
 #: Dystopia/scenarios/01_Orders.cfg:27 Dystopia/scenarios/02_Village.cfg:17
-#: Dystopia/scenarios/04_Rebels.cfg:17 Dystopia/scenarios/05_Elensefar.cfg:17
-#: Dystopia/scenarios/03_Blockade.cfg:17
+#: Dystopia/scenarios/03_Blockade.cfg:17 Dystopia/scenarios/04_Rebels.cfg:17
+#: Dystopia/scenarios/05_Elensefar.cfg:17
 msgid "Cubryn"
 msgstr ""
 
+#. [side]: type=General, id=General
+#. [side]: type=Grand Knight, id=Knight
+#. [side]: type=Lieutenant, id=Guard
 #. [side]: type=Royal Agent, id=Cubryn
 #. [side]: type=Swordsman, id=Yroc
-#. [side]: type=Grand Knight, id=Knight
-#. [side]: type=General, id=General
-#. [side]: type=Lieutenant, id=Guard
 #: Dystopia/scenarios/01_Orders.cfg:31 Dystopia/scenarios/02_Village.cfg:21
-#: Dystopia/scenarios/02_Village.cfg:42 Dystopia/scenarios/04_Rebels.cfg:66
+#: Dystopia/scenarios/02_Village.cfg:42 Dystopia/scenarios/03_Blockade.cfg:21
+#: Dystopia/scenarios/03_Blockade.cfg:38 Dystopia/scenarios/04_Rebels.cfg:66
 #: Dystopia/scenarios/05_Elensefar.cfg:72
-#: Dystopia/scenarios/03_Blockade.cfg:21 Dystopia/scenarios/03_Blockade.cfg:38
 msgid "Loyalists"
 msgstr ""
 
@@ -123,10 +123,10 @@ msgstr ""
 
 #. [objective]: condition=lose
 #: Dystopia/scenarios/01_Orders.cfg:122 Dystopia/scenarios/01_Orders.cfg:214
-#: Dystopia/scenarios/02_Village.cfg:100 Dystopia/scenarios/04_Rebels.cfg:192
+#: Dystopia/scenarios/02_Village.cfg:100
+#: Dystopia/scenarios/03_Blockade.cfg:135 Dystopia/scenarios/04_Rebels.cfg:192
 #: Dystopia/scenarios/04_Rebels.cfg:331
 #: Dystopia/scenarios/05_Elensefar.cfg:130
-#: Dystopia/scenarios/03_Blockade.cfg:135
 msgid "Death of Cubryn"
 msgstr ""
 
@@ -257,10 +257,10 @@ msgid "Defeat the enemy leader"
 msgstr ""
 
 #. [objective]: condition=lose
-#: Dystopia/scenarios/02_Village.cfg:104 Dystopia/scenarios/04_Rebels.cfg:196
+#: Dystopia/scenarios/02_Village.cfg:104
+#: Dystopia/scenarios/03_Blockade.cfg:139 Dystopia/scenarios/04_Rebels.cfg:196
 #: Dystopia/scenarios/04_Rebels.cfg:335
 #: Dystopia/scenarios/05_Elensefar.cfg:134
-#: Dystopia/scenarios/03_Blockade.cfg:139
 msgid "Death of Yroc"
 msgstr ""
 
@@ -333,11 +333,11 @@ msgstr ""
 msgid "Gardash"
 msgstr ""
 
+#. [side]: type=Orcish Ruler, id=Brag
 #. [side]: type=Orcish Warrior, id=Agadla
 #. [side]: type=Orcish Warrior, id=Gardash
-#. [side]: type=Orcish Ruler, id=Brag
-#: Dystopia/scenarios/04_Rebels.cfg:41 Dystopia/scenarios/05_Elensefar.cfg:41
 #: Dystopia/scenarios/03_Blockade.cfg:69 Dystopia/scenarios/03_Blockade.cfg:97
+#: Dystopia/scenarios/04_Rebels.cfg:41 Dystopia/scenarios/05_Elensefar.cfg:41
 msgid "Orcs"
 msgstr ""
 
@@ -443,8 +443,8 @@ msgid "They seemed so organised, not what I expected them to act like."
 msgstr ""
 
 #. [event]
-#: Dystopia/scenarios/05_Elensefar.cfg:113
 #: Dystopia/scenarios/03_Blockade.cfg:225
+#: Dystopia/scenarios/05_Elensefar.cfg:113
 msgid "Kayloc"
 msgstr ""
 
